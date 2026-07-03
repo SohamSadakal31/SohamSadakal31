@@ -1,163 +1,481 @@
 <h1 align="center">Hi 👋, I'm Soham Sadakal</h1>
 
 <h3 align="center">
-Computer Engineering Student • AI Enthusiast • Machine Learning Learner • Software Developer
+Computer Engineering Student • AI Engineer • Machine Learning Enthusiast • Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohamSadakal31&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/SohamSadakal31?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=SohamSadakal31&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/SohamSadakal31?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/SohamSadakal31?style=for-the-badge&logo=github&label=Stars"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Agentic+AI;Always+Learning+Something+New!" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Exploring+Agentic+AI;Building+with+LangChain+and+RAG;Always+Learning+Something+New!" />
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-sadakal-a03636289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:sohamsadakal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/soham-sadakal-a03636289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/Soham_02/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<a href="mailto:sohamsadakal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.codechef.com/users/zest_glim_14" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+<a href="https://github.com/SohamSadakal31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://codeforces.com/profile/soham_7" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+<a href="https://leetcode.com/u/Soham_02/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/zest_glim_14">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/soham_7">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://takeuforward.org/profile/soham2005">
+<img src="https://img.shields.io/badge/TUF-2563EB?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Engineering student at **Dr. D. Y. Patil Institute of Technology, Pune** (CGPA **9.25**)
+🎓 I'm a **Computer Engineering undergraduate** at **Dr. D. Y. Patil Institute of Technology, Pune** with a **CGPA of 9.25**.
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science, Software Development, and Generative AI**.
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, Backend Development, and Generative AI**.
 
-🚀 Currently building AI-powered applications while learning **LangChain, Agentic AI, RAG, Backend Development, Machine Learning, and System Design**.
+💡 I enjoy building intelligent software that solves real-world problems while continuously learning modern technologies.
+
+🚀 My interests include
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Machine Learning
+- Data Science
+- Backend Development
+- Software Engineering
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 LangChain Ecosystem
+
+- 🧠 Agentic AI
+
+- 📚 Retrieval-Augmented Generation (RAG)
+
+- ⚡ LangGraph
+
+- 🐍 Advanced Python
+
+- 📊 Machine Learning
+
+- ☁️ System Design
+
+- 💻 Data Structures & Algorithms
+
+---
+
+# 🎯 Current Goals
+
+✔ Build production-ready AI applications
+
+✔ Master Machine Learning fundamentals
+
+✔ Contribute to Open Source
+
+✔ Become a Software Engineer
+
+✔ Explore LLM-powered products
+
+✔ Keep learning every day 🚀
 
 ---
 
 # 🚀 Featured Projects
 
-- 🤖 **RAG-Based-AI-Teaching-Assistant** – Retrieval-Augmented Generation assistant using LLMs.
-- 💰 **Personal-Finance-Tracker** – React + Flask expense tracker with AI insights.
-- 🔍 **Digital-Footprint-Analysis-System** – OSINT-inspired analysis tool.
-- 📚 **LangChain Learning Series** – Prompts, Models, Chains, Output Parsers & Structured Output.
+## 🤖 RAG Based AI Teaching Assistant
+
+AI-powered educational assistant capable of answering questions from educational videos using Retrieval-Augmented Generation.
+
+**Tech Stack**
+
+`Python` • `LangChain` • `OpenAI` • `Embeddings` • `Prompt Engineering`
+
+---
+
+## 💰 Personal Finance Tracker
+
+A Full Stack React + Flask application for expense tracking with AI-generated financial insights.
+
+**Features**
+
+- Expense Tracking
+
+- Spending Analytics
+
+- Category-wise Limits
+
+- AI Financial Suggestions
+
+---
+
+## 🔍 Digital Footprint Analysis System
+
+An OSINT-inspired project that helps analyze publicly available digital information using modern web technologies.
+
+---
+
+## 📚 LangChain Learning Series
+
+A collection of repositories covering
+
+- LangChain Models
+
+- LangChain Prompts
+
+- LangChain Chains
+
+- LangChain Output Parsers
+
+- LangChain Structured Output
+
+---
+
+## 📊 Data Atlas
+
+Interactive platform for exploring and visualizing datasets using Python and modern visualization libraries.
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql" />
 </p>
 
 ---
 
-### 🌐 Web Development
+## 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=flask" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ---
 
-### 📊 Data Science & Machine Learning
+## ⚙️ Backend Development
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
 ---
 
-### 🤖 AI & LLMs
+## 🤖 Artificial Intelligence & LLMs
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-6A0DAD?style=for-the-badge" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0088CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🛠️ Tools
+## 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
 
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 💡 Core Concepts
+
+```text
+✔ Object-Oriented Programming (OOP)
+
+✔ Data Structures & Algorithms
+
+✔ Machine Learning
+
+✔ Retrieval-Augmented Generation (RAG)
+
+✔ Prompt Engineering
+
+✔ REST APIs
+
+✔ Backend Development
+
+✔ Data Visualization
+
+✔ Git & GitHub
+
+✔ Problem Solving
+
+# 🏆 Achievements
+
+- 🥈 **NPTEL Silver Medal (85%)** – Java Programming
+- 🎓 **CGPA: 9.25** – B.E. Computer Engineering
+- 💻 Solved **250+ Problems** on CodeChef
+- 🚀 Built **25+ Public GitHub Repositories**
+- 🏅 Participated in **Vortexa 2.0 12-Hour Hackathon**
+- 🌐 Participated in **Web Development Hackathon**
+- ⚡ Participated in **Google Developers Group DSA Hackathon**
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Java_Programming-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Udemy-C++-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeWithHarry-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeWithHarry-Data_Science-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TUF-DSA_(Ongoing)-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💻 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Soham_02/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/zest_glim_14">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/soham_7">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://takeuforward.org/profile/soham2005">
+<img src="https://img.shields.io/badge/Take_U_Forward-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night"/>
+
 </p>
 
-# 💻 Coding Profiles
+> **Note:** I intentionally left out the GitHub Stats and Top Languages cards because those services are sometimes unavailable. The streak and activity graph are generally more reliable.
+
+---
+
+# 📂 Featured Repositories
+
+⭐ **RAG-Based-AI-Teaching-Assistant**
+
+An AI-powered assistant that answers questions from educational videos using Retrieval-Augmented Generation (RAG), embeddings, and LLMs.
+
+---
+
+⭐ **LangChain Learning Series**
+
+A collection of repositories covering:
+
+- LangChain Models
+- LangChain Prompts
+- LangChain Chains
+- LangChain Output Parsers
+- LangChain Structured Output
+
+---
+
+⭐ **Personal Finance Tracker**
+
+A React + Flask application for managing expenses with AI-generated financial insights and visualizations.
+
+---
+
+⭐ **Digital Footprint Analysis System**
+
+An OSINT-inspired application for analyzing publicly available digital information.
+
+---
+
+⭐ **Data Atlas**
+
+A data visualization project for exploring and understanding datasets through interactive visualizations.
+
+---
+
+# 🌟 GitHub Goals
+
+- 🚀 Build production-ready AI applications
+- 🤝 Contribute to Open Source
+- 📚 Learn cutting-edge AI technologies
+- 💼 Secure a Software Engineering / AI Internship
+- 🌍 Build impactful products that solve real-world problems
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Soham_02/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<a href="mailto:sohamsadakal@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/zest_glim_14" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://www.linkedin.com/in/soham-sadakal-a03636289/">
+<img src="https://img.shields.io/badge/LinkedIn-Soham_Sadakal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/soham_7" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://takeuforward.org/profile/soham2005" target="_blank">
-  <img src="https://img.shields.io/badge/TUF-Profile-2563EB?style=for-the-badge" />
+<a href="https://github.com/SohamSadakal31">
+<img src="https://img.shields.io/badge/GitHub-SohamSadakal31-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 💭 Quote I Live By
 
-- 📧 **Email:** sohamsadakal@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/soham-sadakal-a03636289/
-- 💻 **GitHub:** https://github.com/SohamSadakal31
-- 🧠 **LeetCode:** https://leetcode.com/u/Soham_02/
-- 📚 **Take U Forward:** https://takeuforward.org/profile/soham2005
+<div align="center">
+
+> **"Success isn't about being the best. It's about being better than you were yesterday."** 🚀
+
+</div>
 
 ---
 
-<h3 align="center">⭐ Building AI-powered solutions while continuously learning, growing, and contributing to the developer community.</h3>
+# 🤝 Open to Collaborate
+
+I'm always excited to collaborate on projects related to
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+🔗 LangChain & Agentic AI
+
+📚 Retrieval-Augmented Generation (RAG)
+
+🌐 Full Stack Development
+
+☁️ Backend Development
+
+🚀 Open Source
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Machine Learning
+
+✅ Build Production-Ready AI Applications
+
+✅ Contribute to Open Source
+
+✅ Solve 500+ DSA Problems
+
+✅ Land a Software Engineering / AI Internship
+
+✅ Continue Learning Every Day
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile!
+
+If you like my projects, consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
