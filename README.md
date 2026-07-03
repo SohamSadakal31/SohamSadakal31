@@ -105,8 +105,27 @@
 # 💻 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/Soham_02/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://takeuforward.org/profile/soham2005"><img src="https://img.shields.io/badge/TUF-Profile-blue?style=for-the-badge"/></a></a>
+
+<a href="https://leetcode.com/u/Soham_02/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/zest_glim_14" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/soham_7" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://takeuforward.org/profile/soham2005" target="_blank">
+  <img src="https://img.shields.io/badge/TUF-Profile-2563EB?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/soham-sadakal-a03636289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Soham%20Sadakal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
