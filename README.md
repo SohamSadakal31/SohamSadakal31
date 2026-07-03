@@ -161,10 +161,6 @@ A collection of repositories covering
 
 ---
 
-## 📊 Data Atlas
-
-Interactive platform for exploring and visualizing datasets using Python and modern visualization libraries.
-
 ---
 
 # 💻 Tech Stack
@@ -276,36 +272,6 @@ Interactive platform for exploring and visualizing datasets using Python and mod
 
 ---
 
-# 🏆 Achievements
-
-- 🥈 **NPTEL Silver Medal (85%)** – Java Programming
-- 🎓 **CGPA:** **9.25** – B.E. Computer Engineering
-- 💻 Solved **250+ Problems** on CodeChef
-- 🚀 Built **25+ Public GitHub Repositories**
-- 🏅 Participated in **Vortexa 2.0 12-Hour Hackathon**
-- 🌐 Participated in **Web Development Hackathon**
-- ⚡ Participated in **Google Developers Group DSA Hackathon**
-
----
-
-# 📜 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NPTEL-Java_Programming-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Udemy-C++-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CodeWithHarry-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CodeWithHarry-Data_Science-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TUF-DSA_(Ongoing)-2563EB?style=for-the-badge"/>
-
-</p>
-
----
-
 # 💻 Competitive Programming
 
 <p align="center">
@@ -392,14 +358,14 @@ I'm always excited to collaborate on:
 
 ---
 
-# 🎯 2026 Goals
+# 🌟 GitHub Goals
 
-- ✅ Master Machine Learning
-- ✅ Build Production-Ready AI Applications
-- ✅ Contribute to Open Source
-- ✅ Solve 500+ DSA Problems
-- ✅ Land a Software Engineering / AI Internship
-- ✅ Continue Learning Every Day
+- 🤖 Build AI-powered applications using LLMs and Agentic AI.
+- 📚 Deepen my knowledge of Machine Learning and Backend Engineering.
+- 🌟 Contribute to impactful Open Source projects.
+- 🧠 Strengthen problem-solving through consistent DSA practice.
+- 🌍 Build impactful products that solve real-world problems
+- 🚀 Develop scalable, production-ready software.
 
 ---
 
