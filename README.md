@@ -91,42 +91,22 @@
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
----
-
-# 🏆 Achievements
-
-- 🥈 NPTEL Silver Medal (85%) in Java Programming
-- 🎓 CGPA **9.25**
-- 💻 250+ CodeChef problems solved
-- 🚀 25+ Public GitHub repositories
-- 🏅 Multiple Hackathon participant
-
----
 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SohamSadakal31&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night"/>
-</p>
 # 💻 Coding Profiles
 
 <p align="center">
 <a href="https://leetcode.com/u/Soham_02/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://takeuforward.org/profile/soham2005"><img src="https://img.shields.io/badge/TUF-Profile-blue?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/soham-sadakal-a03636289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://takeuforward.org/profile/soham2005"><img src="https://img.shields.io/badge/TUF-Profile-blue?style=for-the-badge"/></a></a>
 </p>
 
 ---
