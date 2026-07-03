@@ -25,7 +25,7 @@ Computer Engineering Student • AI Engineer • Machine Learning Enthusiast •
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sohamsadakal@gmail.com">
+<a href="mailto:sohamsadakal7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -318,16 +318,12 @@ A collection of repositories covering
 
 <p align="center">
 
-<a href="mailto:sohamsadakal@gmail.com">
+<a href="mailto:sohamsadakal7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/soham-sadakal-a03636289/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SohamSadakal31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
