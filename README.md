@@ -7,10 +7,7 @@ Computer Engineering Student • AI Engineer • Machine Learning Enthusiast •
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SohamSadakal31&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/SohamSadakal31?style=for-the-badge&logo=github&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/SohamSadakal31?style=for-the-badge&logo=github&label=Stars"/>
-
+<img src="https://img.shields.io/github/followers/SohamSadakal31?label=Followers&style=for-the-badge&cacheSeconds=60"/>
 </p>
 
 <p align="center">
