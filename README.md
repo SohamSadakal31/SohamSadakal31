@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soham Sadakal</h1>
 
-<h3 align="center">Computer Engineering Student • AI Enthusiast • Machine Learning Learner • Software Developer</h3>
+<h3 align="center">
+Computer Engineering Student • AI Enthusiast • Machine Learning Learner • Software Developer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SohamSadakal31&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,10 +13,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Agentic+AI;Always+Learning+Something+New!" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/soham-sadakal-a03636289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/soham-sadakal-a03636289/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Soham%20Sadakal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:sohamsadakal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Soham_02/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/zest_glim_14" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/soham_7" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
