@@ -106,27 +106,21 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamSadakal31&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SohamSadakal31&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SohamSadakal31&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night" />
-</p>
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
