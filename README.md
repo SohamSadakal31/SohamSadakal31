@@ -1,125 +1,105 @@
-# Hi there, I'm Soham! 👋
+👋 Hi, I'm Soham Sadakal
+🚀 Computer Engineering Student | AI & Machine Learning Enthusiast | Software Developer
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t3d2QxZzY5a2l2ZmR0eWhvNXQ0YWtwNGRtc3NkM3NrMWtqb3YzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-I'm a **Computer Engineering student** at **Dr. D. Y. Patil Institute of Technology, Pune**, passionate about **Software Development, Data Science, Machine Learning, and Generative AI**. I enjoy building real-world applications that solve practical problems while continuously improving my programming and problem-solving skills.
+I'm a Computer Engineering undergraduate at Dr. D. Y. Patil Institute of Technology, Pune with a strong passion for building intelligent software using Artificial Intelligence, Machine Learning, and Large Language Models.
 
----
+I enjoy transforming ideas into real-world applications while continuously learning modern technologies and solving challenging problems.
 
-## 🚀 What I'm Up To
+🚀 Currently Working On
+🤖 Building AI applications using LangChain, RAG, and LLMs
+📚 Learning advanced Machine Learning and System Design
+🌐 Developing scalable Flask + React applications
+⚡ Improving Data Structures & Algorithms
+🔍 Exploring Backend Development
+💻 Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql"/> </p>
+Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,flask"/> </p>
+AI / Data Science
+LangChain
+Retrieval-Augmented Generation (RAG)
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Database
+<p> <img src="https://skillicons.dev/icons?i=mysql"/> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
+🌟 Featured Projects
+🤖 RAG Based AI Teaching Assistant
 
-* 🌱 **Currently Learning:** Machine Learning, Data Structures & Algorithms, Backend Development, and Generative AI.
-* 🤖 **Currently Exploring:** Retrieval-Augmented Generation (RAG), LangChain, LLM-based applications, and AI-powered software development.
-* 💡 **Interested In:** Software Engineering, Machine Learning, Backend Development, and Open Source.
-* 🤝 **Always Open To:** Collaborating on innovative projects, hackathons, and learning opportunities.
+An intelligent teaching assistant capable of answering questions from educational videos.
 
----
+Features
 
-## 🏆 Featured Projects
+Video → Audio conversion
+Transcript generation
+Embedding creation
+Semantic Search
+Context-aware AI responses
+Prompt Engineering
+💰 Personal Finance Tracker
 
-### 🤖 RAG-Based AI Teaching Assistant
+A full-stack expense management application.
 
-* Developed a Retrieval-Augmented Generation (RAG) application that answers user questions using educational video content.
-* Built an end-to-end pipeline for video processing, transcript generation, embedding creation, and context-aware response generation.
-* Implemented embedding-based retrieval and prompt engineering for accurate AI-generated answers.
+Tech Stack
 
-### 💰 Personal Finance Tracker
+React
+Flask
+SQLite
+Plotly
+AI Generated Financial Insights
 
-* Developed a full-stack expense management application using **React**, **Flask**, and **SQLite**.
-* Implemented category-wise spending limits with AI-generated financial insights.
-* Led the development team and worked on data visualization and Generative AI integration.
+Features include:
 
----
+Expense Tracking
+Spending Analytics
+Category Limits
+Interactive Charts
+Financial Recommendations
+🏆 Achievements
 
-## 🛠️ Technical Skills
+🥈 NPTEL Silver Medal (85%) – Java Programming
 
-### 💻 Programming Languages
+💻 Solved 250+ Problems on CodeChef
 
-* Python
-* Java
-* JavaScript
-* C++
-* C
-* SQL
+🏅 Participated in
 
-### 🌐 Web Technologies
+Vortexa 2.0 Hackathon
+Web Development Hackathon
+Google Developers Group DSA Hackathon
+📚 Certifications
 
-* HTML
-* CSS
-* ReactJS
-* Flask
+✔ Java Programming – NPTEL
 
-### 📊 Data Science & Machine Learning
+✔ Python – CodeWithHarry
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Scikit-learn
+✔ Data Science & Machine Learning – CodeWithHarry
 
-### 🗄️ Databases
+✔ C++ Programming – Udemy
 
-* MySQL
-* SQLite
+✔ Data Structures & Algorithms – TUF+ (Ongoing)
 
-### ⚙️ Tools & Technologies
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamSadakal31&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&theme=tokyonight"/> </p>
+💻 Competitive Programming
 
-* Git
-* GitHub
-* Object-Oriented Programming (OOP)
+I actively practice Data Structures & Algorithms to strengthen my logical thinking and problem-solving skills.
 
----
+🏅 250+ Problems Solved on CodeChef
 
-## 💻 Problem Solving
+📖 Currently learning advanced DSA through Take U Forward (TUF+)
 
-I actively practice **Data Structures & Algorithms** to strengthen my problem-solving skills and write efficient code.
+🌱 What Drives Me
 
-* 🏅 Solved **250+ problems** on CodeChef (Silver Badge)
-* 📚 Currently learning advanced DSA concepts through TUF+
+I enjoy building software that combines AI with practical problem-solving. Whether it's an intelligent chatbot, a machine learning model, or a full-stack application, I love turning ideas into impactful products while continuously learning modern technologies.
 
----
+📫 Let's Connect
+<p> <a href="https://www.linkedin.com/in/soham-sadakal-a03636289"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:sohamsadakal@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
-## 🏅 Achievements
-
-* 🥈 NPTEL Silver Medal (85%) in Java Programming
-* 💻 Solved 250+ coding problems on CodeChef
-* 🚀 Participated in Vortexa 2.0 12-Hour Hackathon
-* 🌐 Participated in an 8-Hour Web Development Hackathon
-* ⚡ Participated in a DSA Hackathon organized by Google Developers Group
-
----
-
-## 📚 Certifications
-
-* Java Programming – NPTEL
-* C++ Programming – Udemy
-* Python – CodeWithHarry
-* Data Science & Machine Learning – CodeWithHarry
-* Data Structures & Algorithms – TUF+ (Ongoing)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamSadakal31&theme=github-dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/soham-sadakal-a03636289
-* 📧 Email: [sohamsadakal@gmail.com](mailto:sohamsadakal@gmail.com)
-
----
-
-⭐ *"Always learning, always building, and always ready for the next challenge."*
-
+⭐ "Code. Learn. Build. Repeat."
