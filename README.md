@@ -45,8 +45,8 @@ Computer Engineering Student • AI Engineer • Machine Learning Enthusiast •
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://takeuforward.org/profile/soham2005">
-<img src="https://img.shields.io/badge/Take%20U%20Forward-DSA%20Profile-2563EB?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<a href="https://takeuforward.org/profile/soham2005" target="_blank">
+<img src="https://img.shields.io/badge/Take%20U%20Forward-DSA%20Profile-2563EB?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 </a>
 
 </p>
