@@ -1,105 +1,92 @@
-👋 Hi, I'm Soham Sadakal
-🚀 Computer Engineering Student | AI & Machine Learning Enthusiast | Software Developer
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t3d2QxZzY5a2l2ZmR0eWhvNXQ0YWtwNGRtc3NkM3NrMWtqb3YzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<div align="center">
+  <h1>Hi there, I'm Soham! 👋</h1>
+  <h3>Computer Engineering Student | Machine Learning & GenAI Enthusiast</h3>
+  <p><i>"Always learning, always building, and always ready for the next challenge."</i></p>
+</div>
 
-I'm a Computer Engineering undergraduate at Dr. D. Y. Patil Institute of Technology, Pune with a strong passion for building intelligent software using Artificial Intelligence, Machine Learning, and Large Language Models.
+---
 
-I enjoy transforming ideas into real-world applications while continuously learning modern technologies and solving challenging problems.
+## 🚀 About Me
 
-🚀 Currently Working On
-🤖 Building AI applications using LangChain, RAG, and LLMs
-📚 Learning advanced Machine Learning and System Design
-🌐 Developing scalable Flask + React applications
-⚡ Improving Data Structures & Algorithms
-🔍 Exploring Backend Development
-💻 Tech Stack
-Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql"/> </p>
-Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,flask"/> </p>
-AI / Data Science
-LangChain
-Retrieval-Augmented Generation (RAG)
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly
-Database
-<p> <img src="https://skillicons.dev/icons?i=mysql"/> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
-🌟 Featured Projects
-🤖 RAG Based AI Teaching Assistant
+I'm a Computer Engineering student at **Dr. D. Y. Patil Institute of Technology, Pune**, passionate about turning complex data into actionable insights and designing AI-powered systems that scale. I enjoy building real-world applications that bridge the gap between predictive modeling and robust backend architectures.
 
-An intelligent teaching assistant capable of answering questions from educational videos.
+* 🌱 **Currently Learning:** Advanced Machine Learning, Retrieval-Augmented Generation (RAG), LangChain, and LLM-based applications.
+* 💻 **Problem Solving:** Actively practicing Data Structures & Algorithms (250+ problems solved on CodeChef).
+* 🤝 **Open To:** Collaborating on innovative AI/ML projects, open-source contributions, and hackathons.
 
-Features
+---
 
-Video → Audio conversion
-Transcript generation
-Embedding creation
-Semantic Search
-Context-aware AI responses
-Prompt Engineering
-💰 Personal Finance Tracker
+## 🛠️ Technical Arsenal
 
-A full-stack expense management application.
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Tech Stack
+### 🧠 Data Science, ML & GenAI
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-React
-Flask
-SQLite
-Plotly
-AI Generated Financial Insights
+### 🌐 Web & Backend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Features include:
+---
 
-Expense Tracking
-Spending Analytics
-Category Limits
-Interactive Charts
-Financial Recommendations
-🏆 Achievements
+## 🏆 Featured Experience & Projects
 
-🥈 NPTEL Silver Medal (85%) – Java Programming
+### 🏢 Machine Learning Internship | VentCorp *(Jan - Feb 2026)*
+* Executed local model training operations and performance evaluation on datasets exceeding 114,000 rows.
+* Managed machine learning artifact serialization and pipeline optimization for enterprise deployment.
 
-💻 Solved 250+ Problems on CodeChef
+### 🤖 RAG-Based AI Teaching Assistant
+* Built an end-to-end pipeline for video processing, transcript generation, and context-aware response generation.
+* Implemented embedding-based retrieval and prompt engineering for highly accurate AI-generated answers using LangChain.
 
-🏅 Participated in
+### 🩺 Multi-Disease Risk Prediction System
+* Developed a monolithic but modular client-server application designed for diagnostic risk prediction.
+* Structured data preprocessing, model serialization, and system architecture for reliable healthcare analytics.
 
-Vortexa 2.0 Hackathon
-Web Development Hackathon
-Google Developers Group DSA Hackathon
-📚 Certifications
+### 💰 Full-Stack Personal Finance Tracker
+* Engineered an expense management application using **React, Flask, and SQLite**.
+* Implemented category-wise spending limits integrated with AI-generated financial insights and interactive data visualization.
 
-✔ Java Programming – NPTEL
+---
 
-✔ Python – CodeWithHarry
+## 🏅 Achievements & Hackathons
+* 🥈 **NPTEL Silver Medal (85%)** in Java Programming
+* 💡 **Smart India Hackathon (SIH1666):** Researched problem statements for career counseling and college student support tools.
+* 🚀 **Hackathons:** Participated in Vortexa 2.0 (12-Hour), GDG DSA Hackathon, and an 8-Hour Web Development Hackathon.
 
-✔ Data Science & Machine Learning – CodeWithHarry
+---
 
-✔ C++ Programming – Udemy
+## 📈 GitHub Activity
 
-✔ Data Structures & Algorithms – TUF+ (Ongoing)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamSadakal31&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SohamSadakal31&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamSadakal31&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSadakal31&layout=compact&theme=tokyonight"/> </p>
-💻 Competitive Programming
+---
 
-I actively practice Data Structures & Algorithms to strengthen my logical thinking and problem-solving skills.
+## 📫 Let's Connect
 
-🏅 250+ Problems Solved on CodeChef
-
-📖 Currently learning advanced DSA through Take U Forward (TUF+)
-
-🌱 What Drives Me
-
-I enjoy building software that combines AI with practical problem-solving. Whether it's an intelligent chatbot, a machine learning model, or a full-stack application, I love turning ideas into impactful products while continuously learning modern technologies.
-
-📫 Let's Connect
-<p> <a href="https://www.linkedin.com/in/soham-sadakal-a03636289"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:sohamsadakal@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-
-⭐ "Code. Learn. Build. Repeat."
+<div align="center">
+  <a href="https://www.linkedin.com/in/soham-sadakal-a03636289">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sohamsadakal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
