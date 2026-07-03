@@ -46,7 +46,7 @@ Computer Engineering Student • AI Engineer • Machine Learning Enthusiast •
 </a>
 
 <a href="https://takeuforward.org/profile/soham2005" target="_blank">
-<img src="https://img.shields.io/badge/Take%20U%20Forward-DSA%20Profile-2563EB?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/TUF-181717?style=for-the-badge&labelColor=181717&color=181717" />
 </a>
 
 </p>
