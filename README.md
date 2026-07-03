@@ -263,31 +263,23 @@ Interactive platform for exploring and visualizing datasets using Python and mod
 
 ## 💡 Core Concepts
 
-```text
-✔ Object-Oriented Programming (OOP)
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Data Structures & Algorithms
+- ✅ Machine Learning
+- ✅ Retrieval-Augmented Generation (RAG)
+- ✅ Prompt Engineering
+- ✅ REST APIs
+- ✅ Backend Development
+- ✅ Data Visualization
+- ✅ Git & GitHub
+- ✅ Problem Solving
 
-✔ Data Structures & Algorithms
-
-✔ Machine Learning
-
-✔ Retrieval-Augmented Generation (RAG)
-
-✔ Prompt Engineering
-
-✔ REST APIs
-
-✔ Backend Development
-
-✔ Data Visualization
-
-✔ Git & GitHub
-
-✔ Problem Solving
+---
 
 # 🏆 Achievements
 
 - 🥈 **NPTEL Silver Medal (85%)** – Java Programming
-- 🎓 **CGPA: 9.25** – B.E. Computer Engineering
+- 🎓 **CGPA:** **9.25** – B.E. Computer Engineering
 - 💻 Solved **250+ Problems** on CodeChef
 - 🚀 Built **25+ Public GitHub Repositories**
 - 🏅 Participated in **Vortexa 2.0 12-Hour Hackathon**
@@ -341,56 +333,12 @@ Interactive platform for exploring and visualizing datasets using Python and mod
 # 📈 GitHub Analytics
 
 <p align="center">
-
 <img height="180em" src="https://streak-stats.demolab.com?user=SohamSadakal31&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSadakal31&theme=tokyo-night"/>
-
 </p>
-
-> **Note:** I intentionally left out the GitHub Stats and Top Languages cards because those services are sometimes unavailable. The streak and activity graph are generally more reliable.
-
----
-
-# 📂 Featured Repositories
-
-⭐ **RAG-Based-AI-Teaching-Assistant**
-
-An AI-powered assistant that answers questions from educational videos using Retrieval-Augmented Generation (RAG), embeddings, and LLMs.
-
----
-
-⭐ **LangChain Learning Series**
-
-A collection of repositories covering:
-
-- LangChain Models
-- LangChain Prompts
-- LangChain Chains
-- LangChain Output Parsers
-- LangChain Structured Output
-
----
-
-⭐ **Personal Finance Tracker**
-
-A React + Flask application for managing expenses with AI-generated financial insights and visualizations.
-
----
-
-⭐ **Digital Footprint Analysis System**
-
-An OSINT-inspired application for analyzing publicly available digital information.
-
----
-
-⭐ **Data Atlas**
-
-A data visualization project for exploring and understanding datasets through interactive visualizations.
 
 ---
 
@@ -409,15 +357,15 @@ A data visualization project for exploring and understanding datasets through in
 <p align="center">
 
 <a href="mailto:sohamsadakal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/soham-sadakal-a03636289/">
-<img src="https://img.shields.io/badge/LinkedIn-Soham_Sadakal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SohamSadakal31">
-<img src="https://img.shields.io/badge/GitHub-SohamSadakal31-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -426,47 +374,32 @@ A data visualization project for exploring and understanding datasets through in
 
 # 💭 Quote I Live By
 
-<div align="center">
-
-> **"Success isn't about being the best. It's about being better than you were yesterday."** 🚀
-
-</div>
+> *"Success isn't about being the best. It's about being better than you were yesterday."* 🚀
 
 ---
 
 # 🤝 Open to Collaborate
 
-I'm always excited to collaborate on projects related to
+I'm always excited to collaborate on:
 
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🔗 LangChain & Agentic AI
-
-📚 Retrieval-Augmented Generation (RAG)
-
-🌐 Full Stack Development
-
-☁️ Backend Development
-
-🚀 Open Source
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔗 LangChain & Agentic AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🌐 Full Stack Development
+- ☁️ Backend Development
+- 🚀 Open Source Projects
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master Machine Learning
-
-✅ Build Production-Ready AI Applications
-
-✅ Contribute to Open Source
-
-✅ Solve 500+ DSA Problems
-
-✅ Land a Software Engineering / AI Internship
-
-✅ Continue Learning Every Day
+- ✅ Master Machine Learning
+- ✅ Build Production-Ready AI Applications
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ DSA Problems
+- ✅ Land a Software Engineering / AI Internship
+- ✅ Continue Learning Every Day
 
 ---
 
@@ -474,7 +407,7 @@ I'm always excited to collaborate on projects related to
 
 ## ⭐ Thanks for Visiting My Profile!
 
-If you like my projects, consider ⭐ starring a repository or connecting with me on LinkedIn.
+If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
