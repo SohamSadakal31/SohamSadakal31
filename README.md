@@ -27,7 +27,6 @@
 
 - 🤖 **RAG-Based-AI-Teaching-Assistant** – Retrieval-Augmented Generation assistant using LLMs.
 - 💰 **Personal-Finance-Tracker** – React + Flask expense tracker with AI insights.
-- 📊 **Data-Atlas** – Interactive data visualization platform.
 - 🔍 **Digital-Footprint-Analysis-System** – OSINT-inspired analysis tool.
 - 📚 **LangChain Learning Series** – Prompts, Models, Chains, Output Parsers & Structured Output.
 
